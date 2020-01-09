@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d818ad5-37c4-48ce-94a2-6c6a99fdc8aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pradyumna.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W9YppmyKDExNgCycSQBvbCVWeZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d818ad5-37c4-48ce-94a2-6c6a99fdc8aa" name="Default Changelist" comment="" />
+      <created>1578563462859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578563462859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578564142809">
+      <screen x="50" y="21" width="1870" height="1059" />
+    </state>
+    <state x="449" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.21.1870.1059@50.21.1870.1059" timestamp="1578564142809" />
+    <state x="773" y="297" key="FileChooserDialogImpl" timestamp="1578564437853">
+      <screen x="50" y="21" width="1870" height="1059" />
+    </state>
+    <state x="773" y="297" key="FileChooserDialogImpl/50.21.1870.1059@50.21.1870.1059" timestamp="1578564437853" />
+    <state x="494" y="174" key="SettingsEditor" timestamp="1578564760127">
+      <screen x="50" y="21" width="1870" height="1059" />
+    </state>
+    <state x="494" y="174" key="SettingsEditor/50.21.1870.1059@50.21.1870.1059" timestamp="1578564760127" />
+    <state x="674" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1578564671919">
+      <screen x="50" y="21" width="1870" height="1059" />
+    </state>
+    <state x="674" y="381" key="com.intellij.ide.util.TipDialog/50.21.1870.1059@50.21.1870.1059" timestamp="1578564671919" />
+    <state x="787" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578564127706">
+      <screen x="50" y="21" width="1870" height="1059" />
+    </state>
+    <state x="787" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.21.1870.1059@50.21.1870.1059" timestamp="1578564127706" />
+    <state x="648" y="236" key="search.everywhere.popup" timestamp="1578564113502">
+      <screen x="50" y="21" width="1870" height="1059" />
+    </state>
+    <state x="648" y="236" key="search.everywhere.popup/50.21.1870.1059@50.21.1870.1059" timestamp="1578564113502" />
+  </component>
+</project>
